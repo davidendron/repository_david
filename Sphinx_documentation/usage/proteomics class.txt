@@ -1,0 +1,4 @@
+Proteomics data Class
+================
+.. autoclass:: Proteomic_data
+   :members:
